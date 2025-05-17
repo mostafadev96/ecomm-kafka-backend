@@ -1,0 +1,6 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = ./api-gateway
+[submodule "user-manager"]
+	path = user-manager
+	url = ./user-manager/
