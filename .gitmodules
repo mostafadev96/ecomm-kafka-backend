@@ -1,6 +1,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
-	url = ./api-gateway
+	url = https://github.com/mostafadev96/api-gateway-microservice-kafka.git
 [submodule "user-manager"]
 	path = user-manager
-	url = ./user-manager/
+	url = https://github.com/mostafadev96/user-manager-microservice-kafka.git
